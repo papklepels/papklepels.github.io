@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Pap(k)lepels - Muziek</title><link href="/" rel="alternate"></link><link href="/feeds/muziek.atom.xml" rel="self"></link><id>/</id><updated>2025-02-15T17:30:00+01:00</updated><entry><title>Papklepels testpagina</title><link href="/papklepels-testpagina.html" rel="alternate"></link><published>2025-02-15T17:30:00+01:00</published><updated>2025-02-15T17:30:00+01:00</updated><author><name>Pap(k)lepels</name></author><id>tag:None,2025-02-15:/papklepels-testpagina.html</id><content type="html">&lt;p&gt;Dit is zomaar een testpagina.&lt;/p&gt;
+&lt;h1&gt;Heading 1&lt;/h1&gt;
+&lt;h2&gt;Heading 2&lt;/h2&gt;
+&lt;h3&gt;Heading 3&lt;/h3&gt;
+&lt;h4&gt;Heading 4&lt;/h4&gt;
+&lt;p&gt;The &lt;em&gt;quick&lt;/em&gt; brown &lt;em&gt;fox&lt;/em&gt; jumps over the lazy dog.&lt;/p&gt;</content><category term="Muziek"></category></entry></feed>
