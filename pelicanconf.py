@@ -21,13 +21,19 @@ LINKS = (
 
 # Social widget
 SOCIAL = (
-    ("Instagram", "https://www.instagram.com/papklepels/"),
-    ("TikTok", "https://www.tiktok.com/@papklepels"),
+    ("instagram", "https://www.instagram.com/papklepels/"),
+    ("tiktok", "https://www.tiktok.com/@papklepels"),
+    ("facebook", "https://www.facebook.com/papklepels/"),
+    # ("github", "https://github.com/papklepels/"),
 )
 
 DEFAULT_PAGINATION = False
+DISPLAY_CATEGORIES_ON_MENU = False
+DEFAULT_CATEGORY = "Pap(k)lepels"
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
 
-THEME = "flex_theme/"
+THEME = "papklepels_theme/"
+# DIRECT_TEMPLATES = ['index']
+# PAGINATED_DIRECT_TEMPLATES = []
