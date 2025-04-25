@@ -1,6 +1,6 @@
 AUTHOR = 'Pap(k)lepels'
 SITENAME = 'Pap(k)lepels'
-SITEURL = "https://papklepels.github.io"
+SITEURL = ""
 
 PATH = "content"
 
