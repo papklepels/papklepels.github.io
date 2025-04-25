@@ -30,6 +30,7 @@ SOCIAL = (
 DEFAULT_PAGINATION = False
 DISPLAY_CATEGORIES_ON_MENU = False
 DEFAULT_CATEGORY = "Pap(k)lepels"
+SUMMARY_MAX_LENGTH = None  # Niet samenvatten
 
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
