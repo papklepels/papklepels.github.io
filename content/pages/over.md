@@ -1,4 +1,4 @@
-Title: Over
+Title: Over ons
 
 Muziekvereniging de Papk()lepels is een blaaskapel die met groot plezier muziek maakt en haar oorsprong heeft in Culemborg. Hoewel de leden niet alleen uit   Culemborg zelf komen maar ook tot ver daarbuiten, keren ze maar al te graag terug naar Culemborg voor de tweewekelijkse repetities en de optredens! Deze optredens vinden vaak plaats op feesten en partijen maar bijvoorbeeld ook bij huldigingen en jaarlijks terugkomende activiteite, Carnaval en zelfs in en om Dordmund is de Papklepel-muziek jaarlijks te beluisteren en aanschouwen! 
 
